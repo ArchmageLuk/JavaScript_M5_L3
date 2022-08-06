@@ -1,0 +1,16 @@
+Description
+
+1. Create document index.html (1)
+2. Create base layout: head ("A-Level"), body, footer (0)
+3. Connect famicon (0)
+4. Create ordered list with :
+4.1. First point in bold (0)
+4.2  Second point in italics (0)
+4.3. Third point with underscore (0)
+4.4. Forth with link - opens in a new window (0)
+4.5. Fifth in red - use "style" attribute (0)
+
+I'm beginnin' to feel like a Rap God, Rap God
+All my people from the front to the back nod, back nod
+Now, who thinks their arms are long enough to slap box, slap box?
+They said I rap like a robot, so call me Rap-bot
